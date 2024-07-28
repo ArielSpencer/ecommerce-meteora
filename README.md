@@ -1,4 +1,4 @@
-![Meteora](thumbnail.png)
+![Static Badge](https://img.shields.io/badge/Ariel%20Spencer-Meteora-%23895FB5) ![GitHub License](https://img.shields.io/github/license/arielspencer/ecommerce-meteora)
 
 # Meteora - E-commerce de Moda
 
